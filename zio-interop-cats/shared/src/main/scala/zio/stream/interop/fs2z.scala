@@ -2,7 +2,6 @@ package zio.stream.interop
 
 import fs2.io.net.Network
 import fs2.io.file.Files
-import fs2.io.net.unixsocket.UnixSockets
 import zio.*
 import zio.interop.CatsEffectInstances
 
